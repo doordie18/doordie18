@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6572.ts</location>
+			<title>DSTV: SuperSport Grandstand</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6573.ts</location>
+			<title>DSTV: SuperSport PSL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6574.ts</location>
+			<title>DSTV: SuperSport Premier League</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts</location>
+			<title>DSTV: SuperSport La Liga</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6576.ts</location>
+			<title>DSTV: SuperSport Football</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6577.ts</location>
+			<title>DSTV: SuperSport Variety 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6578.ts</location>
+			<title>DSTV: SuperSport Variety 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6579.ts</location>
+			<title>DSTV: SuperSport Variety 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6580.ts</location>
+			<title>DSTV: SuperSport Variety 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6582.ts</location>
+			<title>DSTV: SuperSport Rugby</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6585.ts</location>
+			<title>DSTV: SuperSport MáXimo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6610.ts</location>
+			<title>BT Sport 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6611.ts</location>
+			<title>BT Sport 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6618.ts</location>
+			<title>UK: Sky Sports Golf</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6619.ts</location>
+			<title>UK: Sky Sports Cricket</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6620.ts</location>
+			<title>UK: Sky Sports Football</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6693.ts</location>
+			<title>Asian Food Network HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6694.ts</location>
+			<title>Al-Jazzera HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6700.ts</location>
+			<title>ASTRO Adithya</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6701.ts</location>
+			<title>ASTRO AEC HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6702.ts</location>
+			<title>ASTRO AOD 351 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6704.ts</location>
+			<title>ASTRO AOD 353 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6706.ts</location>
+			<title>ASTRO AOD 355 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6707.ts</location>
+			<title>ASTRO Arena HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6708.ts</location>
+			<title>ASTRO SUPERSPORT HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6710.ts</location>
+			<title>ASTRO SUPERSPORT 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6711.ts</location>
+			<title>ASTRO SUPERSPORT 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6712.ts</location>
+			<title>ASTRO SUPERSPORT 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6713.ts</location>
+			<title>ASTRO Aura HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6714.ts</location>
+			<title>ASTRO Awani HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6715.ts</location>
+			<title>ASTRO Ceria HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6717.ts</location>
+			<title>ASTRO Cricket</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6724.ts</location>
+			<title>ASTRO Naura HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6725.ts</location>
+			<title>ASTRO Oasis HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6727.ts</location>
+			<title>ASTRO Prima HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6729.ts</location>
+			<title>ASTRO Rania HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6730.ts</location>
+			<title>ASTRO Ria HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6732.ts</location>
+			<title>ASTRO Star Vijay HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6733.ts</location>
+			<title>ASTRO Sun TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6738.ts</location>
+			<title>ASTRO Vaanavil HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6739.ts</location>
+			<title>ASTRO Vinmeen HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6740.ts</location>
+			<title>ASTRO Warna HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6742.ts</location>
+			<title>ASTRO Zee Tamil HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6748.ts</location>
+			<title>beIN MAX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6749.ts</location>
+			<title>beIN Sports</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6750.ts</location>
+			<title>Bernama News</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6757.ts</location>
+			<title>Cartoon Network HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6762.ts</location>
+			<title>Chutti TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6768.ts</location>
+			<title>Colors Cineplex</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6769.ts</location>
+			<title>Colors HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6772.ts</location>
+			<title>Discovery Asia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6778.ts</location>
+			<title>DMAX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6791.ts</location>
+			<title>FOX Sports 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6793.ts</location>
+			<title>FOX Sports HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6802.ts</location>
+			<title>Jaya Max</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6806.ts</location>
+			<title>Makkal TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6813.ts</location>
+			<title>Nick Jr</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6814.ts</location>
+			<title>Nickelodeon HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6817.ts</location>
+			<title>One HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6831.ts</location>
+			<title>Sun Music</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6834.ts</location>
+			<title>TV-AlHijrah</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6839.ts</location>
+			<title>TVB Classic</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6840.ts</location>
+			<title>TVB E-News</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6846.ts</location>
+			<title>TV SARAWAK</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6848.ts</location>
+			<title>Warner TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/6849.ts</location>
+			<title>WWE Network</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7062.ts</location>
+			<title>Cinemax FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7066.ts</location>
+			<title>Hits Movies</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7067.ts</location>
+			<title>HBO FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7068.ts</location>
+			<title>HBO Hits FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7069.ts</location>
+			<title>HBO Signature FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7070.ts</location>
+			<title>HBO Family FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7071.ts</location>
+			<title>Red By HBO HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7072.ts</location>
+			<title>Warner TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7074.ts</location>
+			<title>tVN movies HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7075.ts</location>
+			<title>National Geographic HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7076.ts</location>
+			<title>HGTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7077.ts</location>
+			<title>Animal Planet</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7078.ts</location>
+			<title>Discovery Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7079.ts</location>
+			<title>History FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7080.ts</location>
+			<title>Nat Geo People HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7081.ts</location>
+			<title>Nat Geo Wild HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7142.ts</location>
+			<title>DSTV: SuperSport Motorsport</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7169.ts</location>
+			<title>Era FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7170.ts</location>
+			<title>Hot FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7172.ts</location>
+			<title>Sinar FM</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7174.ts</location>
+			<title>THR GEGAR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7177.ts</location>
+			<title>TV 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7178.ts</location>
+			<title>TV 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7185.ts</location>
+			<title>TV 9</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7190.ts</location>
+			<title>BERNAMA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7196.ts</location>
+			<title>Disney Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7199.ts</location>
+			<title>Boomerang</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7205.ts</location>
+			<title>Universal Kids FHD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7219.ts</location>
+			<title>Cinema World</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7220.ts</location>
+			<title>Thrill</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7222.ts</location>
+			<title>Celestial Classic Movies.</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7223.ts</location>
+			<title>AXN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7225.ts</location>
+			<title>Fox Crime</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7227.ts</location>
+			<title>FOX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7228.ts</location>
+			<title>Fox Life</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7229.ts</location>
+			<title>KiX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7233.ts</location>
+			<title>BBC Earth</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7235.ts</location>
+			<title>Celestial Movies</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7236.ts</location>
+			<title>MUTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/7237.ts</location>
+			<title>LFC TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8</location>
+			<title>TV3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://list.iptvcat.com/my_list/s/c80836e2230379704039110cafea2485.ts</location>
+			<title>Astro Citra HD2 (subtitle)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/8995.ts</location>
+			<title>மக்கள் தொலைக்காட்சி</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/8997.ts</location>
+			<title>Star Movies HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/9001.ts</location>
+			<title>TESTNEW</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/9003.ts</location>
+			<title>FS 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/9006.ts</location>
+			<title>FOX ACTION (P)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/9007.ts</location>
+			<title>foxmoviebeta</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/9008.ts</location>
+			<title>cinemax..</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://iptv.tvmalaysia.cc/live/932633/932633/9010.ts</location>
+			<title>Arena ( B )</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+	</extension>
+</playlist>
