@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:0,
 #EXTVLCOPT:network-caching=1000
-http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6727.m3u8
+http://iptv.tvmalaysia.cc/get.php?username=174726&password=174726&type=m3u
